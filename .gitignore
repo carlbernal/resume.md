@@ -1,0 +1,7 @@
+.DS_Store
+.venv
+tags
+pii.txt
+resume.pdf
+resume.html
+resume/
